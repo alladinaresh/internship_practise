@@ -112,4 +112,4 @@ creating_text_index(collection_name)
 start_time = time.time()
 data_search(collection_name)
 overall_time = time.time() - start_time
-print(f' Before Indexing Execution Time is: {overall_time} seconds')
+print(f' Before index Execution Time is: {overall_time} seconds')
